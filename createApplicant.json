@@ -1,0 +1,37 @@
+{
+  "id" : "645218ba19667c0804b17921",
+  "createdAt" : "2023-05-03 08:18:02",
+  "key" : "HWUZKDRXGCFYYB",
+  "clientId" : "otso_fintech",
+  "inspectionId" : "645218ba19667c0804b17922",
+  "externalUserId" : "6e18134f-416a-4bd1-9e23-84b767e3a305",
+  "info" : { },
+  "fixedInfo" : {
+    "firstName" : "someName",
+    "country" : "GBR"
+  },
+  "applicantPlatform" : "API",
+  "requiredIdDocs" : {
+    "includedCountries" : [ "MYS" ],
+    "docSets" : [ {
+      "idDocSetType" : "SELFIE",
+      "types" : [ "SELFIE" ],
+      "videoRequired" : "passiveLiveness"
+    }, {
+      "idDocSetType" : "IDENTITY",
+      "types" : [ "ID_CARD" ],
+      "videoRequired" : "disabled"
+    } ]
+  },
+  "review" : {
+    "reviewId" : "igutJ",
+    "attemptId" : "PHCQR",
+    "attemptCnt" : 0,
+    "levelName" : "basic-kyc-level",
+    "createDate" : "2023-05-03 08:18:02+0000",
+    "reviewStatus" : "init",
+    "priority" : 0
+  },
+  "type" : "individual",
+  "inspectionMetadata" : [ ]
+}
